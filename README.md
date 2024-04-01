@@ -1,6 +1,6 @@
 ![logo](https://github.com/theakash07/theakash07/blob/main/1a50bbf2-d463-43f3-be74-d490a1a24f60.gif)
-<h1 align="center">Hi 👋, I'm Akash Kumar</h1>
-<h3 align="center">A passionate AI/ML Enthusiasist!</h3>
+<h1 align="center">Hi 👋, I'm Ayush Dixit</h1>
+<h3 align="center">Learner</h3>
 <img align="right" alt="coding" width="400" height="300" src="https://github.com/theakash07/theakash07/assets/113254843/d7f5a181-68e0-44d9-a384-5a80acd4850b.gif"
 <p align="left"> <a href="https://twitter.com/theakash07_" target="blank"><img src="https://img.shields.io/twitter/follow/theakash07_?logo=twitter&style=for-the-badge" alt="theakash07_" /></a> </p>
 
