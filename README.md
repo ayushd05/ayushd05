@@ -17,8 +17,8 @@
    <tr>
      <td> 
   
-![Github stats](https://github-readme-stats.vercel.app/api?username=yeazin&theme=radical&show_icons=true&count_private=true&hide=issues) </td>
-     <td> [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yeazin&theme=radical&layout=compact)](https://github.com/yeazin) </td>
+![Github stats](https://github-readme-stats.vercel.app/api?username=ayushd05&theme=radical&show_icons=true&count_private=true&hide=issues) </td>
+     <td> [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ayushd05&theme=radical&layout=compact)](https://github.com/ayushd05) </td>
    </tr>
   </table>
   
