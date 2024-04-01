@@ -60,9 +60,6 @@
     <td align="center">
        <img alt="linux" height=64px src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg">
      </td>   
-    <td align="center">
-       <img alt="sql" height=64px src="https://github.com/devicons/devicon/blob/master/icons/debian/debian-original.svg">
-     </td> 
        <td align="center">
        <img alt="Posql" height=64px src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg">
      </td>  
